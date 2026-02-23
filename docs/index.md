@@ -1,3 +1,59 @@
+---
+layout: default
+title: Jarvis Ops Dashboard
+---
+
+<style>
+:root {
+  color-scheme: dark;
+}
+body {
+  background-color: #05070d;
+  color: #e2e8ff;
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+main.page-content {
+  padding: 2.5rem 1rem;
+}
+.markdown-body {
+  background: #0b0f1a;
+  border: 1px solid #1f2636;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+hr {
+  border: none;
+  border-top: 1px solid #1f2636;
+  margin: 2rem 0;
+}
+h1, h2, h3, h4 {
+  color: #8bc5ff;
+}
+code, pre {
+  background: #11182a;
+  color: #e5f1ff;
+  border-radius: 8px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 2rem 0;
+}
+th, td {
+  border: 1px solid #1f2636;
+  padding: 0.65rem;
+}
+th {
+  background: #10172b;
+  font-weight: 600;
+}
+td {
+  background: #0f1424;
+}
+</style>
 # Jarvis Ops Dashboard
 **Last updated:** 2026-02-23 14:30 UTC
 
